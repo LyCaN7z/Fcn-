@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of Copy of PUBG Clan Ledger V5 - Tactical Pro",
+  "description": "A high-performance gaming-themed financial management app for PUBG clans. Features AI-powered Scrim scanning, Multi-Squad tracking, Strategic Goals, and Tournament planning.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
